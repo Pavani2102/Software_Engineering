@@ -40,6 +40,5 @@ The program iterates through all possible combinations of `x` and `y`, finds the
 
 5. Run the program using the following command:
 
-**bash**
-
+```bash
 python assignment1.py
